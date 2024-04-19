@@ -4,6 +4,7 @@ A self-driven attempt to learn more about tool creation over the duration of Sum
 ### Goals
 Goals this summer include:
 - Figuring out the functionality of Raylib
+- Learning Multi-Threading
 - Recreating the entirety of what's been learnt in class through raylib
 - Implementation of extra 3rd party library such as:
     - Box2D
@@ -17,8 +18,6 @@ Goals this summer include:
     - Heatmap creator
     - Dialogue/quest system tools
 - Creation of save files/ managing to save data based on input
-- Learning Multi-Threading
-    - 
 - Creation of self-solving puzzle
 
 ### Research to Do / Go Through
